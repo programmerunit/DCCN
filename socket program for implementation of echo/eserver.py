@@ -6,7 +6,7 @@ s = socket.socket()
 
 # set default host and port number
 HOST = 'localhost'
-PORT = 10000
+PORT = 1999
 
 # bind port number to the host
 try:
